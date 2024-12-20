@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image:  logo.svg
+image:  bbl.png
 ---
 Hi,this is a personal studio dedicated to helping people achieve better mental health.  
 
