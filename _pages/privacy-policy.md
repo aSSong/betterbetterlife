@@ -2,6 +2,7 @@
 layout: page
 title: Privacy policy
 permalink: /privacy-policy/
+image:  logo.svg
 ---
 
 # Privacy Policy
