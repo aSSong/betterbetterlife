@@ -2,8 +2,8 @@
 layout: page
 title: Privacy policy
 permalink: /privacy-policy/
-image:  bbl.png
 ---
+![]({{site.baseurl}}/images/bbl.png)
 
 # Privacy Policy
 This App (the “App”) is owned and operated by BetterBetterLife., with its contact email at support@betterbetter.life. The use of the App and the content and information available in the App (the “Services”) is subject to acceptance and compliance with this Privacy Policy (the “Policy”). The terms “you”, “your”, “user” and “users” refer to all users of the App.
